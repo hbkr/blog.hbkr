@@ -9,6 +9,5 @@ deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: hbkr.github.io
         basedir: public
-
+        repo: hbkr/hbkr.github.io
