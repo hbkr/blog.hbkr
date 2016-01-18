@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KAZUMA IEIRI</title>
+    <link>http://ieiri.net/tags/</link>
+    <description>Recent content on KAZUMA IEIRI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 19 Jan 2016 03:11:39 +0900</lastBuildDate>
+    <atom:link href="http://ieiri.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://ieiri.net/about/</link>
+      <pubDate>Tue, 19 Jan 2016 03:11:39 +0900</pubDate>
+      
+      <guid>http://ieiri.net/about/</guid>
+      <description>&lt;p&gt;hello&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://ieiri.net/about/</link>
+      <pubDate>Tue, 19 Jan 2016 03:11:39 +0900</pubDate>
+      
+      <guid>http://ieiri.net/about/</guid>
+      <description>&lt;p&gt;hello&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
