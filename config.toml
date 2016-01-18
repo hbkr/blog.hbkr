@@ -1,13 +1,14 @@
-baseurl = "http://ieiri.net/"
+baseurl = "http://hbkr.github.io/"
 languageCode = "ja"
 title = "KAZUMA IEIRI"
+theme = "angels-ladder"
 disqusShortname = "hbkr"
 
 [Params]
 subtitle = "I LOVE INTERNET"
 facebook = "https://facebook.com/ieiri"
 twitter = "https://twitter.com/hbkr"
-github = ""
+github = "https://github.com/hbkr"
 profile = ""
 copyright = "Written by Kazuma Ieiri"
 analytics = ""
