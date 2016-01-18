@@ -1,8 +1,7 @@
 box: wercker/default
 build:
   steps:
-    - arjen/hugo-build:
-        version: "0.15"
+    - arjen/hugo-build@1.6.1:
         theme: angels-ladder
         flags: --buildDrafts=true
 deploy:
