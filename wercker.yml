@@ -11,3 +11,4 @@ deploy:
         token: $GIT_TOKEN
         domain: hbkr.github.io
         basedir: public
+
