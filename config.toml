@@ -1,0 +1,14 @@
+baseurl = "http://ieiri.net/"
+languageCode = "ja"
+title = "KAZUMA IEIRI"
+disqusShortname = "hbkr"
+
+[Params]
+subtitle = "I LOVE INTERNET"
+facebook = "https://facebook.com/ieiri"
+twitter = "https://twitter.com/hbkr"
+github = ""
+profile = ""
+copyright = "Written by Kazuma Ieiri"
+analytics = ""
+
