@@ -15,6 +15,9 @@
         #<a href="/tags/{{ . | urlize }}">{{ . }}</a>&nbsp;
       {{ end }}
     </div>
+    <article>
+    {{ .Content }}
+    </article>
   </div>
   {{ end }}
 </main>

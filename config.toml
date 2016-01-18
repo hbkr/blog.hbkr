@@ -2,7 +2,6 @@ baseurl = "http://hbkr.github.io/"
 languageCode = "ja"
 title = "KAZUMA IEIRI"
 theme = "angels-ladder"
-disqusShortname = "hbkr"
 
 [Params]
 subtitle = "I LOVE INTERNET"
