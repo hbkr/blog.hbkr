@@ -4,6 +4,10 @@ build:
     - arjen/hugo-build@1.6.1:
         theme: angels-ladder
         flags: --buildDrafts=true
+  after-steps:
+    - wantedly/pretty-slack-notify:
+        webhook_url: $SLACK_WEBHOOK_URL
+        channel: hbkr
 deploy:
   steps:
     - leipert/git-push@0.7.6:
@@ -11,3 +15,7 @@ deploy:
         gh_pages_domain: hbkr.github.io
         basedir: public
         repo: hbkr/hbkr.github.io
+  after-steps:
+    - wantedly/pretty-slack-notify:
+        webhook_url: $SLACK_WEBHOOK_URL
+        channel: hbkr
