@@ -1,8 +1,7 @@
 box: wercker/default
 build:
   steps:
-    - arjen/hugo-build:
-        version: "HEAD"
+    - arjen/hugo-build@1.8.1:
         theme: habakarizm
         flags: --buildDrafts=true
   after-steps:
