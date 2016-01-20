@@ -2,6 +2,7 @@ baseurl = "http://hbkr.github.io/"
 languageCode = "ja"
 title = "KAZUMA IEIRI"
 theme = "habakarizm"
+hasCJKLanguage = true
 
 [Params]
 subtitle = "I LOVE INTERNET"
