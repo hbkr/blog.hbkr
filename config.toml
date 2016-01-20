@@ -3,8 +3,13 @@ languageCode = "ja"
 title = "KAZUMA IEIRI"
 theme = "habakarizm"
 hasCJKLanguage = true
+Paginate = 10
 
-[Params]
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[params]
 subtitle = "I LOVE INTERNET"
 facebook = "https://facebook.com/ieiri"
 twitter = "https://twitter.com/hbkr"
@@ -12,4 +17,5 @@ github = "https://github.com/hbkr"
 profile = ""
 copyright = "Written by Kazuma Ieiri"
 analytics = ""
+author = "Kazuma Ieiri"
 
