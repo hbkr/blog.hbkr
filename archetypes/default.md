@@ -1,9 +1,9 @@
 +++
 date = "now()"
-draft = true
+draft = false
 slug = ""
-tags = ["", ""]
+tags = [""]
+categories = ["Blog"]
 title = ""
-
 +++
 
